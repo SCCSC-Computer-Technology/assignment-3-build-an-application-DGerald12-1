@@ -1,0 +1,3 @@
+Code is structured well with good use of multiple forms and database integration. Clean naming,
+if i had to say anything it would be maybe consider removing unused forms and 
+replacing drag-and-drop DataSets with manual SQL for more control. maybe throw in some user=proofing error handling and input validation
